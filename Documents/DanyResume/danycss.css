@@ -10,14 +10,14 @@ img {
 
 h1 {
   font-size: 45px;
-  color: #60057a;
+  color: #99ccff;
   -webkit-text-stroke-width: 1px;
   -webkit-text-stroke-color: black;
   text-shadow: 5px 5px 5px black;
 }
 
 body {
-  background-color: #160a47;
+  background-color: #9999ff;
 }
 
 .box {
